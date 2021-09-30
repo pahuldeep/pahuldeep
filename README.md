@@ -6,7 +6,7 @@
 - 👨‍💻 Connect with me **[Pahuldeep Singh](https://www.linkedin.com/in/pahuldeep-singh-424351161)**
 - 🔭 I’m currently working on **[Indian Raga Classifier](https://github.com/)**
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
-- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
+- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/external-konkapp-outline-color-konkapp/64/000000/external-programmer-profession-avatar-konkapp-outline-color-konkapp.png"/> I’m looking to collaborate on OpenSource Projects </p> 
 
 - 📫 How to reach me **pahuldeep100@gmail.com**
 
