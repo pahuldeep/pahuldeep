@@ -5,7 +5,7 @@
 
 - 👨‍💻 Connect with me **[Pahuldeep Singh](https://www.linkedin.com/in/pahuldeep-singh-424351161)**
 
-- 🔭 I’m currently working on **[AI projects](https://github.com/)**
+- 🔭 I’m currently working on **[AI projects](https://github.com/pahuldeep?tab=repositories)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
