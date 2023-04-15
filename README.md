@@ -63,6 +63,6 @@
 <a href = "https://www.instagram.com/Musicwalkops/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://soundcloud.com/user-743173062/"> <img src="https://img.icons8.com/color/48/000000/soundcloud.png"/> </a>
 <a href = "https://www.youtube.com/channel/UC1X4wqNFSZ4LlzB3MZsfmsw"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/> </a>
-<a herf = "https://drive.google.com/drive/folders/1-K7U8MGAAMk3oNYC4DMpakKwLthehYGy"> <img src="https://img.icons8.com/color/48/000000/google-drive--v1.png"/> </a>
+<a herf = "https://drive.google.com/drive/folders/1-K7U8MGAAMk3oNYC4DMpakKwLthehYGy"> </a>
 
 </p>
