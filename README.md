@@ -29,11 +29,13 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> 
 </a> 
 <!--QT Framework--> 
-<a href="https://docs.opencv.org/4.x/index.html" target="_blank">
+<a href="https://doc.qt.io/" target="_blank">
 <img <img width="50" height="50" src="https://img.icons8.com/ios/50/qt.png" alt="qt"/> 
 </a>
 <!--OpenCV-->
-<a href="https://docs.opencv.org/4.x/index.html" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/> </a>
+<a href="https://docs.opencv.org/4.x/index.html" target="_blank">
+<img width="48" height="48" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/> 
+</a>
 <!--C++--> 
 <a href="https://isocpp.org/" target="_blank"> 
 <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> 
