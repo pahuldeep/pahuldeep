@@ -30,7 +30,7 @@
 </a> 
 <!--QT Framework--> 
 <a href="https://docs.opencv.org/4.x/index.html" target="_blank">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAADcUlEQVR4nO2ZS2gTQRjH1yc+8G1tUVEPQmsyX1KNj6LFmS9NSxUFLwUvIoJ49aDosXjzoujJg+BdQTyI2JOPm8Via0z3mw22FV8I9Q2t0qqVaV5Tm80kJk33sH/YS3Z2vvnle8y3s5bly5cvX758zZAiA7EVQHiHSRwDiRNevCyTwkN8JSN8MtsLhXJAUhCiWw1kEofCxLdYHhOYQCDevAokPk1DJCHJN1oeFBQCaUw21wCJ5ykI4YSd6AbLowI3kNDL1nVMYjwNIbdTbL3lYYEbCJPYlYZIsHi01jRRg92yhpE4AyTuMcJBIPzDJI6DFB9A4iOQ4pzy8GyAjKsbyjOmSUKStzPCYXNVER+ZgwerCgJF1mWwozuA8EfRJZLEz7AT3V1oMUXtB5UGYSQeZ8YyKUYYicuM+E4VRuoKypZdTOIVRjiaHUei21MgTPIGbXG/mC2429igjW0qbzLjAw5v9AwISHFei//bJmOM8L7mvU7vgJC4mTVui+NmY/yktti7+QD+q/Wwyg4tIXNJjPUmYyFH7NGSvq86IJSKZ2vCmuMKopXcrcn25SZjgURskxaKrzwDAlrZDSQ6FpqMbR7ii3LFAb9UJ0eoNJBQX+tSk7Gm102Lc8mOYx6qWvi+lNBSXYIWWp+85BE7M0Ex7yhq79BCa9A7IFI8yBmPHjAZC0o8poVWl3dACC9poXLNbEzc0Mr1xUIg/CGfXz0Qh8e0UBkNOvu3uY0N92NQNYwaeEshkHrau6xqIB0THfOAxIAGMwwkTqseLNJzaImqUpP9mPpNb/MJKd+8IPF7tgo6/Kjyijq5KebNtCwQpRBFDwOJ38VsauncGAebN+Wby+2UhpF4O+Mg6QWcUC28EUJ1yJIfcV0M4am8z5L4VhWQbPtBeEFVMibFu9S/L0bUIqZ6xB1E2VJhCBJ7GImvIPEzkOgHKW5VAKRzrlWGIj2RBUziCy2P3pSayCZFJF+bCdtpNzNxXy6IUlCKffpLFUi8alVIjcnmmtxpz/S9qaIgSozwut6eVOJEhcWjteqUJ51H/YEEr5txkECibTUQ9gYJzxbTl5nn43WZFkmFrutpT6nJXk2xKZ5AO68nvA4SmPSEqmSTEL0q0Qs+8E9yeu5ihM/U6aaRvJTduqoAEsfUxyb1laCCjvbly5cvX74sXX8Bzh5JPICByr0AAAAASUVORK5CYII=">
+<img <img width="50" height="50" src="https://img.icons8.com/ios/50/qt.png" alt="qt"/> 
 </a>
 <!--OpenCV-->
 <a href="https://docs.opencv.org/4.x/index.html" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/opencv.png" alt="opencv"/> </a>
@@ -40,7 +40,6 @@
 </a>
 <!--CUDA-->
 <a href="https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/contents.html" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/nvidia.png" alt="nvidia"/> </a>
-
 
 <!--MySQL-->    
 <!--<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/> </a> -->
