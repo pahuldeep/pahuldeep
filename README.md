@@ -10,7 +10,7 @@
 
 - 🌱 I’m Interested in learning **Data Structures and Algorithms.**
 
-- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> looking to collaborate checkout techOpswalk (https://github.com/techopswalk) </p>
+- <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10 px"/> Looking to collaborate checkout techOpswalk (https://github.com/techopswalk) </p>
 
 - 📫 How to reach me **pahuldeep100@gmail.com**
 
