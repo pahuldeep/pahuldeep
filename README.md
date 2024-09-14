@@ -26,7 +26,7 @@
 
 ## 📊 Github Stats & Activity
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/pahuldeep/github-readme-streak-stats">
         <img title="🔥 Get your streak stats!" alt="Pahuldeep's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pahuldeep&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
@@ -38,6 +38,14 @@
 
 <p align="center">
     <b>Note:</b> The top languages are based on my public repositories and might not reflect my expertise level.
+</p> -->
+
+<p align="center">
+  <img alt="Pahuldeep's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pahuldeep&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <br/>
+  <img alt="Pahuldeep's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pahuldeep&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  <br/>
+  <img alt="Pahuldeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahuldeep&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 ## 📬 Let's Connect:
