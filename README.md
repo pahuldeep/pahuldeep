@@ -6,21 +6,21 @@
 </p>
 
 ## 🌐 About Me
-- 🔭 I’m currently working on AI/ML-based web applications and full-stack projects. Check out my latest work on [GitHub Projects](https://github.com/pahuldeep?tab=repositories) 💻
-- 🌱 Always exploring new tech, currently mastering **Data Structures & Algorithms** 📚
-- 🧠 Interested in **NLP**, **Computer Vision**, and **Full-Stack Development** 🖥️
+- 🔭 I’m currently working on AI/ML-based projects. latest work: [GitHub Projects](https://github.com/pahuldeep?tab=repositories) 💻
+- 🌱 Always exploring new tech, currently mastering **Game Development & Reinforcement Learning** 📚
+- 🧠 Interested in **DSP**, **Computer-Vision**, and **Full-Stack Development** 🖥️
 - 🎯 Open to collaborations! If you’re into exciting tech, check out [techOpswalk](https://github.com/techopswalk)
 - 📫 Reach me at **pahuldeep100@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/pahuldeep-singh-424351161)
 
 ## 🔧 Tech Stack & Tools:
 
-<p align="center"> 
+<p> 
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://doc.qt.io/" target="_blank"> <img src="https://img.icons8.com/ios/50/qt.png"/> </a>
     <a href="https://docs.opencv.org/4.x/index.html" target="_blank"> <img src="https://img.icons8.com/color/48/opencv.png"/> </a>
-    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/contents.html" target="_blank"> <img src="https://img.icons8.com/color/48/nvidia.png"/> </a>
 </p>
 
