@@ -51,7 +51,7 @@ I'm interested in various topics, so I'm developing various side projects in my 
 
 ## 🔧 Tech Stack & Tools
 
-<div align="center">
+<div align="left">
   
   <!-- Programming Languages -->
   <h4>Programming Languages</h4>
