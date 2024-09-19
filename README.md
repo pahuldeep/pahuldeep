@@ -7,11 +7,11 @@
 
 ## 🌐 About Me
 I'm interested in various topics, so I'm developing various side projects in my spare time.
-- 🔭 I’m currently working on AI/ML-based projects. latest work: [GitHub Projects](https://github.com/pahuldeep?tab=repositories) 💻
+- 🔭 Interested in AI/ML-based projects. latest work: [GitHub Projects](https://github.com/pahuldeep?tab=repositories) 💻
 
 - 🌱 Exploring, currently **Game Development** and **C++ Reinforcement Learning** 📚
 
-- 🧠 Interested in **DSP**, **Computer-Vision**, and **Full-Stack Development** 🖥️
+- 🧠 give me suggestion on [Gmail](pahuldeep100@gmail.com), eg. **DSP**, **Computer-Vision**, and **Full-Stack Development**🖥️
 
 - 🎯 Open to collaborations! If you’re into exciting tech, check out [techOpswalk](https://github.com/techopswalk)
 
