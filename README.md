@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Pahuldeep Singh 👋</h1>
-<h3 align="center">A Full Stack Developer & AI/ML Enthusiast from India 🚀</h3>
+<h3 align="center">A Full Stack Developer & Technology Enthusiast from India 🚀</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pahuldeep&label=Profile%20views&color=0e75b6&style=flat" alt="pahuldeep" /> 
