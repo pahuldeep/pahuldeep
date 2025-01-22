@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Pahuldeep Singh 👋</h1>
-<h3 align="center">A Full Stack Developer & AI/ML Enthusiast from India 🚀</h3>
+<h3 align="center">A Full Stack Developer & Technology Enthusiast from India 🚀</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pahuldeep&label=Profile%20views&color=0e75b6&style=flat" alt="pahuldeep" /> 
@@ -7,11 +7,11 @@
 
 ## 🌐 About Me
 I'm interested in various topics, so I'm developing various side projects in my spare time.
-- 🔭 I’m currently working on AI/ML-based projects. latest work: [GitHub Projects](https://github.com/pahuldeep?tab=repositories) 💻
+- 🔭 Interested in AI/ML-based projects. latest work: [GitHub Projects](https://github.com/pahuldeep?tab=repositories) 💻
 
 - 🌱 Exploring, currently **Game Development** and **C++ Reinforcement Learning** 📚
 
-- 🧠 Interested in **DSP**, **Computer-Vision**, and **Full-Stack Development** 🖥️
+- 🧠 give me suggestion on [Gmail](pahuldeep100@gmail.com), eg. **DSP**, **Computer-Vision**, and **Full-Stack Development**🖥️
 
 - 🎯 Open to collaborations! If you’re into exciting tech, check out [techOpswalk](https://github.com/techopswalk)
 
@@ -41,6 +41,11 @@ I'm interested in various topics, so I'm developing various side projects in my 
   <!-- Hardware Acceleration & AI Development -->
   <h4>Hardware Acceleration & AI Development</h4>
   <a href="https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/contents.html" target="_blank" title="NVIDIA CUDA"><img src="https://img.icons8.com/color/48/nvidia.png" alt="NVIDIA CUDA" /></a>
+<<<<<<< HEAD
+=======
+
+</div>
+>>>>>>> 12bfbc8b32a3a605f4dadddca7bde577a05a5fc6
 
 </div>
 
