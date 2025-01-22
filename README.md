@@ -34,9 +34,6 @@ I'm interested in various topics, so I'm developing various side projects in my 
   <!-- Web Frameworks & Libraries -->
   <h4>Web Frameworks & Libraries</h4>
   <div>
-    <a href="https://pytorch.org/" target="_blank" title="PyTorch">
-      <img src="https://img.icons8.com/?size=48&id=jH4BpkMnRrU5&format=png&color=000000" alt="PyTorch" />
-    </a>
     <a href="https://docs.opencv.org/4.x/index.html" target="_blank" title="OpenCV">
       <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" />
     </a>
@@ -67,6 +64,9 @@ I'm interested in various topics, so I'm developing various side projects in my 
   <div>
     <a href="https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/contents.html" target="_blank" title="NVIDIA CUDA">
       <img src="https://img.icons8.com/color/48/nvidia.png" alt="NVIDIA CUDA" />
+    </a>
+    <a href="https://pytorch.org/" target="_blank" title="PyTorch">
+      <img src="https://img.icons8.com/?size=48&id=jH4BpkMnRrU5&format=png&color=000000" alt="PyTorch" />
     </a>
   </div>
 </div>
