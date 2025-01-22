@@ -75,7 +75,7 @@ I'm interested in various topics, so I'm developing various side projects in my 
 ## 📈 Contribution Graph
 
 <p align="center">
-    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <a href="https://tinyurl.com/3afm2tbp">
         <img alt="Pahuldeep's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pahuldeep&bg_color=0D1117&color=FFFFFF&line=00E676&point=FFFFFF&hide_border=true" />
     </a>
 </p>
