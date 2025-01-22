@@ -83,9 +83,14 @@ I'm interested in various topics, so I'm developing various side projects in my 
 
 ## 📬 Let's Connect:
 <p align="left">
-    <a href="https://www.linkedin.com/in/pahuldeep-singh-424351161"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/pahuldeep"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href="https://twitter.com/pahuldeep_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
     <a href="https://www.instagram.com/pahul.deep17/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="https://www.youtube.com/@Techopswalk"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-    <a href="https://drive.google.com/drive/folders/1-K7U8MGAAMk3oNYC4DMpakKwLthehYGy"><img src="https://img.icons8.com/color/48/google-drive--v2.png"/></a>
+    <a href="https://www.youtube.com/@pahul_deep"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
+
+## Google Drive link
+<p align="left">
+    <a href="https://drive.google.com/drive/folders/1-K7U8MGAAMk3oNYC4DMpakKwLthehYGy">LINK</a>
+</p>
+
