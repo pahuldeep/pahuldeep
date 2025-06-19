@@ -15,7 +15,7 @@ I'm interested in various topics, so I'm developing various side projects in my 
 
 - 🎯 Open to collaborations! If you’re into exciting tech, check out [techOpswalk](https://github.com/techopswalk)
 
-- 📫 Reach me at **pahuldeep100@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/pahuldeep-singh-424351161)
+- 📫 Reach me at **pahuldeep100@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/pahuldeep)
 
 ## 🔧 Tech Stack & Tools
 
