@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">Hey there, I'm Pahuldeep Singh 👋</h1>
 <h3 align="center">A Full Stack Developer & Technology Enthusiast from India 🚀</h3>
 
