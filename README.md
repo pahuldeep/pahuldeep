@@ -23,26 +23,15 @@ I'm interested in various topics, so I'm developing various side projects in my 
   <!-- Programming Languages -->
   <h4>Programming Languages</h4>
   <div>
-    <a href="https://isocpp.org/" target="_blank" title="C++">
-      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-    </a>
-    <a href="https://www.python.org/" target="_blank" title="Python">
-      <img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python" />
-    </a>
+    <a href="https://isocpp.org/" target="_blank" title="C++"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /></a>
+    <a href="https://www.python.org/" target="_blank" title="Python"><img src="https://img.icons8.com/fluency/48/000000/python.png" alt="Python" /></a>
   </div>
 
   <!-- Web Frameworks & Libraries -->
   <h4>Web Frameworks & Libraries</h4>
   <div>
-    <a href="https://docs.opencv.org/4.x/index.html" target="_blank" title="OpenCV">
-      <img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" />
-    </a>
-    <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow">
-      <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" title="Django">
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="Django" />
-    </a>
+    <a href="https://docs.opencv.org/4.x/index.html" target="_blank" title="OpenCV"><img src="https://img.icons8.com/color/48/opencv.png" alt="OpenCV" /></a>
+    <a href="https://www.tensorflow.org/" target="_blank" title="TensorFlow"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" /></a>
   </div>
 
   <!-- Development Tools -->
@@ -51,9 +40,9 @@ I'm interested in various topics, so I'm developing various side projects in my 
     <a href="https://visualstudio.microsoft.com/vs/" target="_blank" title="Visual Studio 2022">
       <img src="https://img.icons8.com/?size=48&id=ezj3zaVtImPg&format=png&color=000000" alt="Visual Studio 2022" />
     </a>
-    <a href="https://git-scm.com/" target="_blank" title="Git">
+    <!-- <a href="https://git-scm.com/" target="_blank" title="Git">
       <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-    </a>
+    </a> -->
     <a href="https://doc.qt.io/" target="_blank" title="Qt">
       <img src="https://img.icons8.com/?size=48&id=25647&format=png&color=94D82D" alt="Qt" />
     </a>
