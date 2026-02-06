@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Pahuldeep Singh 👋</h1>
-<h3 align="center">Architect & Technology Enthusiast from India 🚀</h3>
+<h3 align="center">AI Architect & Technology Enthusiast from India 🚀</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pahuldeep&label=Profile%20views&color=0e75b6&style=flat" alt="pahuldeep" /> 
@@ -73,7 +73,7 @@ I'm interested in various topics, so I'm developing various side projects in my 
 ## 📬 Let's Connect:
 <p align="left">
     <a href="https://www.linkedin.com/in/pahuldeep"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://www.youtube.com/@pahul_deep"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+    <a href="https://www.youtube.com/@pahuldeep.official"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 ## Google Drive link
