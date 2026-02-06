@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Pahuldeep Singh 👋</h1>
-<h3 align="center">A Full Stack Developer & Technology Enthusiast from India 🚀</h3>
+<h3 align="center">Architect & Technology Enthusiast from India 🚀</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pahuldeep&label=Profile%20views&color=0e75b6&style=flat" alt="pahuldeep" /> 
@@ -11,11 +11,11 @@ I'm interested in various topics, so I'm developing various side projects in my 
 
 - 🌱 Exploring, currently **Game Development** and **C++ Reinforcement Learning** 📚
 
-- 🧠 give me suggestion on [Gmail](pahuldeep100@gmail.com), eg. **DSP**, **Computer-Vision**, and **Full-Stack Development**🖥️
+- 🧠 give me suggestion on [Gmail](pahuldeep.official@gmail.com), eg. **DSP**, **Computer-Vision**, and **Full-Stack Development**🖥️
 
 - 🎯 Open to collaborations! If you’re into exciting tech, check out [techOswalk](https://github.com/techoswalk)
 
-- 📫 Reach me at **pahuldeep100@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/pahuldeep)
+- 📫 Reach me at [EMAIL](pahuldeep.official@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/pahuldeep)
 
 ## 🔧 Tech Stack & Tools
 
