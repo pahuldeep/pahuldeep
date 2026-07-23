@@ -67,8 +67,9 @@ I'm interested in various topics, so I'm developing various side projects in my 
 
 ## 📬 Let's Connect:
 <p align="left">
-    <a href="https://www.linkedin.com/in/pahuldeep"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-    <a href="https://www.youtube.com/@pahuldeep.official"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+    <a href="https://www.linkedin.com/in/pahuldeep">LinkedIN</a><br>
+    <a href="https://www.youtube.com/@pahuldeep.official">Youtube</a><br>
+    <a href="#">Linktree</a>
 </p>
 
 ## Google Drive link
